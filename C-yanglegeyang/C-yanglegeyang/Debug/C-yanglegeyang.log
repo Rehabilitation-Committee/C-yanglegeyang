@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Programs\C-yanglegeyang\C-yanglegeyang\C-yanglegeyang\rand.h(16,50): warning C4244: “参数”: 从“DWORDLONG”转换到“unsigned int”，可能丢失数据
+E:\Programs\C-yanglegeyang\C-yanglegeyang\C-yanglegeyang\main.cpp(91,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Programs\C-yanglegeyang\C-yanglegeyang\C-yanglegeyang\main.cpp(199,9): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+  C-yanglegeyang.vcxproj -> E:\Programs\C-yanglegeyang\C-yanglegeyang\Debug\C-yanglegeyang.exe
